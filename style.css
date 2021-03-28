@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
+/* global */
+* {
+    list-style: none;
+}
+
+body {
+    font-family: 'Inconsolata', monospace;
+}
+
+nav {
+    color: whitesmoke;
+}
+
+.blink {
+    color: var(--bs-info);
+}
+
+/* Wib */
+#jam-wib {
+    font-family: 'Orbitron', sans-serif;
+}
+
+#btn-wib {
+    cursor: pointer;
+}
+
+/* wita */
+#jam-wita {
+    font-family: 'Orbitron', sans-serif;
+}
+
+#btn-wita {
+    cursor: pointer;
+}
+
+/* wit */
+#jam-wit {
+    font-family: 'Orbitron', sans-serif;
+}
+
+#btn-wit {
+    cursor: pointer;
+}
